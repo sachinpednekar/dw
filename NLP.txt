@@ -1,0 +1,141 @@
+Bag of Words
+Information Retrieval
+Sentiment analysis (opinion mining)
+Context-free grammar
+CKY algorithm
+Chomsky normal form (CNF).
+POS tagging
+HMM
+Weighted Finite-state Automaton (WFSA)
+Maximum entropy
+Maximum Entropy Markov Models (MEMM)
+generative model
+Lexical semantics
+word sense disambiguation
+Word Embeddings
+Information Content
+Probabilistic CFG
+Distant supervision
+Confidence of pattern
+Reference resolution
+Hobbs search
+Ge, Hale, and Charniak formula
+Question Answering
+Mean Reciprocal Rank
+Noisy Channel Model
+Lexical Translation Model
+Named-entity recognition (NER) (also known as (named) entity identification, entity chunking, and entity extraction) 
+Natural language parsing‎ 
+Word-sense disambiguation‎
+
+Some Keywords in NLP
+CNN: Convolutional neural network
+RNN: Recurrent neural network
+LSTM: Long Short Term Memory
+BERT: Bidirectional Encoder Representations from Transformers.
+POS: parts of speech.
+DTM: Document Term Matrix.
+NER: name entity recognition.
+NLG: Natural Language Generation.
+NLU: Natural Language Understanding.
+TF IDF: Term Frequency–Inverse Document Frequency.
+re: Regular expression.
+LDA: Latent Dirichlet Allocation.
+LSI: Latent Semantic Indexing.
+NMF: Non-Negative Matrix Factorization.
+NLTK: Natural Language Toolkit
+Stop words
+Punctuation
+Word embedding
+Word segmentation
+Text summarization
+Regular expression
+Morphological segmentation
+Named entity recognition
+Corpus: A collection of texts
+Document-Term Matrix
+n-gram: tokenize sentences by n words combination
+LDA (Latent Dirichlet Allocation): a technique for topic modelling
+
+Applications of NLP in The Real World
+Multilingual Toxic Comment Classification
+Personal assistant applications
+Fighting spam
+Chatbots
+Managing the Advertisement
+Sentiment analysis
+Text classification
+Text summarization
+Toxicity Classification
+Name entity recognization
+Part of speech tagging
+Language model building
+Machine translation
+Spell checking
+Speech recognition
+Character recognition
+
+
+Python Library for NLP
+- NLTK
+- spaCy
+- Huggingface
+- Gensim : is a python library specifically for Topic Modelling.
+- Pattern
+- Stanford CoreNLP
+- Polyglot
+- TextBlob
+- re: python library for regular expression
+- WordCloud
+- allennlp: an open-source NLP research library, built on PyTorch
+
+
+
+
+Metrics
+All metrics from our datasets repository and community bucket.
+
+Also check out the list of Datasets.
+
+bertscore
+BLEU
+BLEURT
+Character error rate (CER)
+ChrF and ChrF++ 
+code_eval
+comet
+competition_math
+CoVal
+cuad
+GLEU
+GLUE
+google_bleu
+BLEU score
+IndicGLUE
+matthews_correlation
+Matthews correlation coefficient (MCC) 
+METEOR
+Pearson correlation coefficient
+ROUGE, or Recall-Oriented Understudy for Gisting Evaluation
+SacreBLEU
+SARI
+seqeval
+spearmanr
+Stanford Question Answering Dataset (SQuAD)
+squad_v2
+SuperGLUE 
+TER (Translation Edit Rate, also called Translation Error Rate)
+Word error rate (WER)
+WIKI_SPLIT
+XNLI
+
+BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding
+GPT2: Language Models Are Unsupervised Multitask Learners
+XLNet: Generalized Autoregressive Pretraining for Language Understanding
+RoBERTa: A Robustly Optimized BERT Pretraining Approach
+ALBERT: A Lite BERT for Self-supervised Learning of Language Representations
+StructBERT: Incorporating Language Structures into Pre-training for Deep Language Understanding
+T5: Exploring the Limits of Transfer Learning with a Unified Text-to-Text Transformer
+GPT3: Language Models Are Few-Shot Learners
+ELECTRA: Pre-training Text Encoders as Discriminators Rather Than Generators
+DeBERTa: Decoding-enhanced BERT with Disentangled Attention
